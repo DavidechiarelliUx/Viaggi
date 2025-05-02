@@ -16,4 +16,5 @@ public class Viaggio {
     private String destinazione;
     private String descrizione;
     private int prezzo;
+
 }
